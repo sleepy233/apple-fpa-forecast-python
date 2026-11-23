@@ -15,6 +15,7 @@ Unit: USD Millions
 - `apple_scenarios.csv`: FY2027 three-scenario forecast output
 - `apple_sensitivity.csv`: Growth shock sensitivity table
 - `apple_fpa_charts.png`: Visualization of revenue trend & gross margin
+![Revenue & Gross Margin Chart](apple_fpa_charts.png)
 
 ## How to Run
 ```bash
