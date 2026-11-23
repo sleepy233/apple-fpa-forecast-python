@@ -19,3 +19,15 @@ Unit: USD Millions
 ```bash
 pip install pandas numpy matplotlib
 python main.py
+
+## Key Calculations
+The Python script automatically computes:
+
+- Historical gross and net profit margins
+- Annual revenue growth rate year over year
+- Forecast assumptions using the latest 3 years of financial data
+- Three forecast scenarios for FY2027 (Base, Upside, Downside)
+- Sensitivity analysis to test how changes in revenue growth affect net income
+
+## Notes
+This is a simplified FP&A forecast model. Real corporate FP&A would split revenue by product segments (iPhone, Services, Mac etc.) and use more granular assumptions.
