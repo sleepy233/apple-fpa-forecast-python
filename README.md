@@ -6,6 +6,7 @@ This model uses Apple fiscal year income statement data (FY2022–FY2026) to cal
 
 ## Data Source
 Data: https://stockanalysis.com/stocks/aapl/financials/income-statement/
+
 Unit: USD Millions
 
 ## Files
