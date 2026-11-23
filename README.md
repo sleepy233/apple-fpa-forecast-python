@@ -19,6 +19,7 @@ Unit: USD Millions
 ```bash
 pip install pandas numpy matplotlib
 python main.py
+```
 
 ## Key Calculations
 The Python script automatically computes:
