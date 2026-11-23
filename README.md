@@ -2,7 +2,7 @@
 A driver-based financial planning & analysis project for Apple Inc., built for FP&A practice.
 
 ## Project Overview
-This model uses Apple fiscal year income statement data (FY2022–FY2026) to calculate historical margins, YoY revenue growth, and build Base / Upside / Downside forecast scenarios for FY2027. It also runs sensitivity analysis to measure how revenue growth shocks impact net income.
+This model uses Apple fiscal year income statement data (`FY2022–FY2026`) to calculate historical margins, YoY revenue growth, and build Base / Upside / Downside forecast scenarios for FY2027. It also runs sensitivity analysis to measure how revenue growth shocks impact net income.
 
 ## Data Source
 Data: https://stockanalysis.com/stocks/aapl/financials/income-statement/
